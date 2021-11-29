@@ -1,0 +1,107 @@
+/* Vos customisations des classes de Bootstrap */
+
+body{
+   font-family: 'Arvo';
+}
+.title-nav{
+    margin-left: 50px;
+    text-decoration: none;
+    font-size: x-large;
+}
+
+.thin-text{
+    font-weight: lighter;
+    line-height: 1.2;
+}
+
+.text{
+    margin: 0 auto;
+    width: 60%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.line{
+    width: 25%;
+    border-top: red;
+    border-style: solid;
+    border-top-width: 1px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+}
+
+h2{
+    font-size: 18px;
+}
+.exception{
+    font-weight: 900;
+}
+
+.code-logo{
+    margin-bottom: 15px;
+}
+
+#home{
+   background-image: url('../images/hero-image.jpg');
+   background-size: cover; 
+   color: white;
+}
+
+#who{
+    margin: 15px;
+}
+
+.red-text{
+    color: rgb(223, 55, 55);
+}
+
+.red-text-logo{
+    color: rgb(223, 55, 55);
+    font-size: xx-large;
+    font-family: 'Arvo';
+}
+
+.red_line{
+    color: rgb(223, 55, 55);
+    width: 150px;
+}
+
+#get-involved{
+    background-color: rgb(223, 221, 221);
+}
+
+.title{
+    color: rgb(223, 55, 55);
+    font-size: xx-large;
+    font-family: 'Arvo';
+}
+
+.card{
+    background-color: rgb(223, 221, 221);
+    border: none;
+}
+.modal-size{
+    height: 60vh;
+    width: 100%;
+}
+
+
+.footer{
+    background-color: rgb(223, 55, 55);
+    padding-top: 150px;
+    padding-bottom: 0px;
+
+}
+
+/* Responsive Styling */
+
+@media (max-width: 1199px) {
+
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
